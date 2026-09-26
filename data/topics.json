@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Python Functions",
+        "completed": true
+    },
+    {
+        "name": "Pandas",
+        "completed": false
+    },
+    {
+        "name": "gym",
+        "completed": false
+    }
+]
